@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from gi.repository import GLib
 
 import dbus
